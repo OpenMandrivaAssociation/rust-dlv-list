@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.3.0
-Release:        1
+Release:        2
 Summary:        Semi-doubly linked list implemented using a vector
 
 # Upstream license specification: MIT
